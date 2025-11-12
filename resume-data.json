@@ -1,0 +1,134 @@
+{
+  "personal": {
+    "name": "TUMMALA SAI NAGA VARA PRABHAS",
+    "location": "Hyderabad, India",
+    "phone": "+91 7842620363",
+    "email": "tsnvprabhas2003@gmail.com",
+    "linkedin": "linkedin.com/in/prabhas-8a2b19264",
+    "github": "github.com/Prabhas0710"
+  },
+  "education": [
+    {
+      "institution": "Mahindra University",
+      "degree": "B.Tech in Artificial Intelligence",
+      "cgpa": "8.0/10",
+      "period": "Sep 2021 – June 2025 (Completed)",
+      "location": "Hyderabad, India"
+    },
+    {
+      "institution": "Sri Chaitanya College",
+      "degree": "Intermediate (MPC)",
+      "percentage": "96%",
+      "period": "Apr 2019 – Mar 2021",
+      "location": "Hyderabad, India"
+    },
+    {
+      "institution": "Vikas The Concept School",
+      "degree": "10th (CBSE)",
+      "percentage": "95%",
+      "period": "Apr 2018 – Mar 2019",
+      "location": "Hyderabad, India"
+    }
+  ],
+  "technicalSkills": {
+    "languages": ["Python", "SQL"],
+    "frameworksLibraries": [
+      "TensorFlow",
+      "Scikit-learn",
+      "LangChain",
+      "OpenCV",
+      "BeautifulSoup",
+      "PaddleOCR",
+      "PyMuPDF",
+      "FAISS",
+      "Streamlit"
+    ],
+    "specializations": [
+      "NLP",
+      "RAG",
+      "LLM Integration",
+      "Computer Vision",
+      "Agentic AI",
+      "Web Scraping",
+      "OCR Pipelines",
+      "Data Analysis"
+    ],
+    "tools": [
+      "Flask",
+      "Power BI",
+      "Crawl4AI",
+      "DuckDuckGo API",
+      "Git",
+      "Linux",
+      "Jupyter"
+    ]
+  },
+  "workExperience": [
+    {
+      "company": "SSEV SoftSols Pvt Ltd",
+      "role": "AI Engineer",
+      "period": "Currently Working",
+      "location": "Hyderabad, India",
+      "contributions": [
+        "Developed a full-stack ERP system with Flask backend and dynamic JS frontend",
+        "Built an AI-driven Intelligent Traffic Management System (ITMS) using YOLO and OpenCV for real-time violation detection and analytics dashboard"
+      ]
+    },
+    {
+      "company": "Viruj Pharmaceuticals",
+      "role": "AI Engineer",
+      "period": "Mar 2025 – Jul 2025",
+      "location": "Hyderabad, India",
+      "contributions": [
+        "Built scalable AI systems for pharmaceutical data extraction and analysis using LangChain, FAISS, and Azure OCR",
+        "Developed multi-agent pipelines leveraging Groq and Qwen models for real-time data querying and summarization"
+      ]
+    },
+    {
+      "company": "Tech Mahindra",
+      "role": "Data Science Intern",
+      "period": "Jun 2024 – Aug 2024",
+      "location": "Hyderabad, India",
+      "contributions": [
+        "Performed EDA and preprocessing on large datasets",
+        "Implemented ML models (Random Forest, SVM, XGBoost)",
+        "Deployed best-performing model via Streamlit dashboard for real-time predictions and business insights"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "NFC Payment System",
+      "technologies": ["Flask", "SQLite", "Supabase", "NFC", "JS", "LangChain"],
+      "date": "Sep 2025",
+      "description": "Cloud-integrated NFC payment platform with merchant/customer dashboards, real-time wallet sync, sub-1s latency transactions. Integrated Supabase for storage and an LLM-powered assistant."
+    },
+    {
+      "name": "Intelligent Traffic Management System (ITMS)",
+      "technologies": ["Python", "Flask", "YOLO", "OpenCV", "Computer Vision"],
+      "date": "Aug 2025",
+      "description": "AI-powered system for traffic violation detection using computer vision and YOLO. Full-stack solution with Flask backend and real-time dashboard."
+    },
+    {
+      "name": "OCR-Based Retrieval System",
+      "technologies": ["Python", "OCR", "NLP", "Agentic AI"],
+      "date": "Apr 2025",
+      "description": "OCR-powered semantic search tool for pharma documents using Azure OCR, FAISS embeddings, and LLM-based summarization."
+    },
+    {
+      "name": "Agentic AI Pharma Chatbot",
+      "technologies": ["Python", "LangChain", "RAG"],
+      "date": "Mar 2025",
+      "description": "Multi-agent chatbot for pharma API recommendations with RAG-based contextual reasoning and live web scraping."
+    }
+  ],
+  "achievements": [
+    "Awarded merit scholarship for outstanding academic performance (2023-24)"
+  ],
+  "interests": [
+    "Cricket",
+    "Music",
+    "Exploring Indian mythology"
+  ]
+}
+
